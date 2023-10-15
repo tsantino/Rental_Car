@@ -1,0 +1,5 @@
+El boton disponibilidad muestra las fechas en que no hay autos disponibles, para eso
+hay que seleccionar un auto en el menu desplegable y tocar el boton "disponiblidad"
+Para ver en que fechas no hay ningun auto disponible, hay que seleccionar "total" del menu desplegable
+y luego presionar el boton "disponibilidad". 
+Las fechas no disponibles se muestran en rojo en el calendario
